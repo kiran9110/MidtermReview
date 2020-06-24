@@ -53,6 +53,7 @@ public class MidtermPartA {
             System.out.println(candies[i]);
         }
         System.out.println("To re-fill the vending machine, please follow instructions in program 2");
+         System.out.println("Kiran");
       
         // TODO code application logic here
     }
